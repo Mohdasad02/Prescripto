@@ -1,4 +1,4 @@
-                                                            # PRESCRIPTO 👨‍⚕️🏥🤒
+                                                       # PRESCRIPTO 👨‍⚕️🏥🤒
 
 A **Full-Stack Doctor Appointment Booking System** that can be used by individual doctors or hospitals.  
 
